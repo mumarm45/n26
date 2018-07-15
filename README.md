@@ -41,3 +41,9 @@ we​ ​could​ ​receive​ ​a​ ​transaction​ ​which​ ​have​
 database)
 ● Endpoints​ ​have​ ​to​ ​execute​ ​in​ ​constant​ ​time​ ​and​ ​memory​ ​(O(1))
 ● Please​ ​complete​ ​the​ ​challenge​ ​using​ ​Java
+
+
+
+Project can run using following command. 
+
+mvn clean isntall 
