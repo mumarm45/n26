@@ -44,6 +44,6 @@ database)
 
 
 
-Project can run using following command. 
+Project can run, use following command. 
 
 mvn clean isntall 
